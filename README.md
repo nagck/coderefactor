@@ -29,7 +29,7 @@ Here are some websites that I referred to improve the code:
 Licensed under the [MIT](https://choosealicense.com/licenses/mit/) license.
 
 ## Feedback
-Feedback is always appreciated. If you are interested in fixing issues and contributing directly to the code base, please provide at  https://github.com/nagck/pulls.
+Feedback is always appreciated. If you are interested in fixing issues and contributing directly to the code base, please provide at  https://github.com/nagck/coderefactor/pulls
 
 ---
 
